@@ -1,0 +1,14 @@
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.csproj.AssemblyReference.cache
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.AssemblyInfoInputs.cache
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.AssemblyInfo.cs
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.csproj.CoreCompileInputs.cache
+C:\Users\cspro\source\repos\Zdanie\Zdanie\bin\Debug\netcoreapp3.1\Zdanie.exe
+C:\Users\cspro\source\repos\Zdanie\Zdanie\bin\Debug\netcoreapp3.1\Zdanie.deps.json
+C:\Users\cspro\source\repos\Zdanie\Zdanie\bin\Debug\netcoreapp3.1\Zdanie.runtimeconfig.json
+C:\Users\cspro\source\repos\Zdanie\Zdanie\bin\Debug\netcoreapp3.1\Zdanie.runtimeconfig.dev.json
+C:\Users\cspro\source\repos\Zdanie\Zdanie\bin\Debug\netcoreapp3.1\Zdanie.dll
+C:\Users\cspro\source\repos\Zdanie\Zdanie\bin\Debug\netcoreapp3.1\Zdanie.pdb
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.dll
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.pdb
+C:\Users\cspro\source\repos\Zdanie\Zdanie\obj\Debug\netcoreapp3.1\Zdanie.genruntimeconfig.cache
