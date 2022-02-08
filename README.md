@@ -19,4 +19,4 @@
 ![image](https://user-images.githubusercontent.com/87894035/152641787-d742fcd2-0067-4d58-9e96-7de494512600.png)![image](https://user-images.githubusercontent.com/87894035/152641819-16613b61-61fc-4ade-8221-72ea0a18dac7.png)
 ![image](https://user-images.githubusercontent.com/87894035/152641831-61b5a600-aa4c-409c-8341-97c008feadb9.png)
 
-Решение было реализованно с помощью пяти классов.
+Решение было реализованно с помощью пяти классов .
